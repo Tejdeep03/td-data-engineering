@@ -35,3 +35,7 @@ Currently starting with Git and GitHub.
 ## Projects
 
 Projects will be added as I build them practically.
+
+## Git Practice
+
+I successfully created and pushed my first GitHub repository.

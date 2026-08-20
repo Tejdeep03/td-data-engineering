@@ -23,3 +23,15 @@ My practical preparation journey for Associate Data Engineer roles.
 ## Progress
 
 Currently starting with Git and GitHub.
+
+## Current Learning
+
+- Git & GitHub
+- Python
+- SQL
+- AWS
+- Snowflake
+
+## Projects
+
+Projects will be added as I build them practically.
